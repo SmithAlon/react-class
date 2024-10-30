@@ -1,0 +1,11 @@
+.encabezado {
+    color: #fff;
+}
+
+.navegacion {
+    background-color: transparent;
+    border: none;
+    color: inherit; /* Para heredar el color del texto del header */
+    cursor: pointer;
+    outline: none; /* Para eliminar el borde de enfoque */
+}
